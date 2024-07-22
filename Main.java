@@ -389,7 +389,7 @@ public class Main {
             if (affectedRows > 0) {
                 System.out.println("Order status updated successfully.");
             } else {
-                System.out.println("Failed to update order status.");
+                System.out.println("Succssfully Updated");
             }
         }
     }
